@@ -2,7 +2,7 @@
 - here i push some backend practice code for my understanding
 
 ##API data fetch using JQuery
-<code>
+```
   $.ajax({
           method: 'get',
           url:API_URL,
@@ -11,4 +11,4 @@
             $('#lblTemp').text(wheatherObj.main.temp);
           })
         })
-</code>
+```
