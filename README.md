@@ -12,4 +12,4 @@
           })
         })
 ```
-<img src="https://github.com/Suprit202/backendPractice/blob/main/media/Screenshot%202025-07-10%20161350.png" width="80%" height="100px">
+<img src="https://github.com/Suprit202/backendPractice/blob/main/media/Screenshot%202025-07-10%20161350.png" width="60%" height="200px">
