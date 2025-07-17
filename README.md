@@ -1,7 +1,7 @@
 # backendPractice
 - here i push some backend practice code for my understanding
 
-##API data fetch using JQuery
+## API data fetch using JQuery
 ```
   $.ajax({
           method: 'get',
