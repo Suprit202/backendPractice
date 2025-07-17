@@ -17,8 +17,8 @@
 ## Some Library To USe
 ```
   app.use(cors());
-  app.use(express.urlencoded({extended:true}))
-  app.use(express.json())
+  app.use(express.urlencoded({extended:true}));
+  app.use(express.json());
 ```
 - Express requires CORS library to restrict the methods.
 - CORS is Cross Origin Resource Sharing, that allows to enable or disable specific request method.
